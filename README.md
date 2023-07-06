@@ -1,6 +1,6 @@
 # Weather App
 
-An weather application
+A weather application
 
 ## Project Overview
 
